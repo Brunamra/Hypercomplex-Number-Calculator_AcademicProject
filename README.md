@@ -6,7 +6,7 @@
 
 #### By:
 
-  * **Bruna Araújo**
+  * **Bruna Micaela Rodrigues Araújo (AE8679)**
   * **João Nuno Rodrigues Fernandes (A87971)**
   * **Rui Alexandre Dias Neto (A80433)**
 
